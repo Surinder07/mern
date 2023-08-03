@@ -1,0 +1,72 @@
+ls  -- list all the files/directories
+ls -lrt 
+ls -al  - hidden files 
+. 
+cd  - navigate to another directory / change directory 
+mkdir  - create a directory
+cd ..  -- go to previous diretory
+touch -- create file 
+vi file_name --
+pwd   - present working diretory
+cat   - display the content of the file 
+wc - count words 
+cp - copy file 
+mv - rename a file 
+rm - delete a file 
+
+
+in vim editor 
+
+insert        --> i
+save         -- > :w 
+save and exit --> :x
+exit without   --> :q
+any changes made 
+
+discard changes --> :q!
+
+rmdir --> to delete directory
+=========================
+
+permissions
+
+read  - r
+write - w
+execute  - x
+
+chmod -- change mod 
+
+777 --> to set all permissions for everyone (rwx)
+444  -> to set read access for all (read only )
+
+=====
+grep    ---> grep with options 
+sort command  ---> all the options 
+
+============================================
+
+
+
+Git -->  Introduction to git 
+
+version control system 
+keeps track of code changes. 
+
+
+whataspp --> audio call feature  (not working at all)
+-- Git as a helpful tool 
+
+version control system. 
+
+whatsapp --> video call feature (not working correctly)
+
+keep track of versions
+
+
+
+
+
+
+
+
+
